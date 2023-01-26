@@ -57,6 +57,8 @@
             // 
             // Bt_Browser
             // 
+            this.Bt_Browser.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.Bt_Browser.Location = new System.Drawing.Point(434, 25);
             this.Bt_Browser.Name = "Bt_Browser";
             this.Bt_Browser.Size = new System.Drawing.Size(120, 24);
@@ -67,6 +69,9 @@
             // 
             // richTextBox1
             // 
+            this.richTextBox1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.richTextBox1.Location = new System.Drawing.Point(12, 138);
             this.richTextBox1.Name = "richTextBox1";
             this.richTextBox1.Size = new System.Drawing.Size(542, 203);
@@ -91,6 +96,8 @@
             // 
             // Bt_Umbennen
             // 
+            this.Bt_Umbennen.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.Bt_Umbennen.Location = new System.Drawing.Point(434, 89);
             this.Bt_Umbennen.Name = "Bt_Umbennen";
             this.Bt_Umbennen.Size = new System.Drawing.Size(120, 23);
